@@ -1,0 +1,10 @@
+
+*aeronav_copyright.txt
+*.ese
+*.sct
+*.rwy
+*.pdf
+FBGR/Alias/*
+FBGR/NavData/*
+FBGR/ICAO/*
+FBGR/Sounds/*
