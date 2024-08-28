@@ -1,11 +1,16 @@
-
-*aeronav_copyright.txt
+# File Type Exclusions
 *.prf
 *.ese
 *.sct
 *.rwy
 *.pdf
-FBGR/Alias/*
-FBGR/NavData/*
-FBGR/ICAO/*
-FBGR/Sounds/*
+
+# Folder Exclusions
+FBGR/*
+Alias/*
+NavData/*
+ICAO/*
+Sounds/*
+
+# File Exclusions
+*aeronav_copyright.txt
