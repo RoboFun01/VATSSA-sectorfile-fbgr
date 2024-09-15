@@ -1,0 +1,16 @@
+==== Botswana ====
+----
+
+//This page is a subsection of the [[Botswana]] country page.//
+
+==== FBGR ====
+
+----
+
+[[FBGR]] - Gaborone FIR | v0.1
+
+==== FBSK ====
+
+----
+
+[[FBSK]] - Sir Seretse Khama Intl | v0.1

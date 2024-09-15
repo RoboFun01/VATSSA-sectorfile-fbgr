@@ -1,0 +1,10 @@
+===== FBSK Coordination =====
+
+
+==== FBSK & FAOR ====
+
+  * With traffic inbound or outbound between FBSK and FAOR, due to the small distance between both airfields, if relevant controllers are online, coordination is advisable.
+
+
+
+{{page>fb-footer#FBSK}}

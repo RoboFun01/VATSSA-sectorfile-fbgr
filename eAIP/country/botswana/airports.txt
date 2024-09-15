@@ -1,0 +1,8 @@
+==== Botswana Airports ====
+
+^ ICAO      ^ Name                      ^ City          ^ Status            ^ Remarks ^
+| [[airport:fbsk:home|FBSK]]  | Sir Seretse Khama Intl    | Gaborone      | //In Development// | - |
+
+
+
+{{page>fb-footer#Botswana}}

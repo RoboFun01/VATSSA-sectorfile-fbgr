@@ -1,0 +1,6 @@
+===== FBGR Gaborone Initial Climb =====
+
+^ ICAO     ^ RWY   ^ Initial Fix ^ Initial Climb ^ Remarks ^
+| [[airport:fbsk:home|FBSK]] | 08-26 | All         | FL080         | - |
+
+{{page>fb-footer#FBGR}}

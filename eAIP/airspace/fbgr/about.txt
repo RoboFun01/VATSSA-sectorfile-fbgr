@@ -1,0 +1,13 @@
+===== FBGR Gaborone Flight Information Region =====
+
+  * The Gaborone FIR covers the entirety of [[country:botswana:home|Botswana]]'s borders.
+==== Airport Coverage ====
+
+Gaborone covers the following airports:
+
+=== Botswana ===
+
+{{page>country:botswana:airports#Botswana Airports}}
+
+
+{{page>fb-footer#FBGR}}

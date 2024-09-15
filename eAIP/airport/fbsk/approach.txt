@@ -1,0 +1,67 @@
+===== FBSK Approach =====
+
+==== Arrivals Procedures ====
+
+^ Rwy   ^ Fix     ^ Arrival ^ Type  ^ Track Miles   ^ Approach          ^ Remarks ^
+| 08    | DULTO   | DULT2C  | RNAV  | 23 nm         | ILS X via ESVON   | - |
+| :::   | DUSLI   | DUSL2C  | :::   | 52 nm         | ILS X via BONDY   | - |
+| :::   | UTVIN   | UTVI2C  | :::   | 61 nm         | ILS X via OKPEX   | - |
+| :::   | UVBIX   | UVBI2C  | :::   | 51 nm         | ILS X via OKPEX   | - |
+| 26    | DULTO   | DULT1D  | RNAV  | 56 nm         | RNAV via KOFTA    | - |
+| :::   | DUSLI   | DUSL1D  | :::   | 36 nm         | RNAV via KOFTA    | - |
+| :::   | UTVIN   | UTVI1D  | :::   | 62 nm         | RNAV via UTIMO    | - |
+| :::   | UVBIX   | UVBI1D  | :::   | 28 nm         | RNAV via IBRAB    | - |
+
+
+=== Approach Procedures ===
+
+^ Rwy   ^ Approach  ^ Frequency ^ Course    ^ GP Angle  ^ IAF                   ^ Platform  ^ Remarks ^
+| 08    | ILS Z     | 109.90    | 078º      | 3.00º     | OKSIV, IMROK or DUSRO | 5100 ft   | //12 DME GSV Circling Approach// |
+| :::   | ILS Y     | :::       | :::       | :::       | GSV                   | :::       | //ILS Back-Course//              |
+| :::   | ILS X     | :::       | :::       | :::       | OKPEX, ESVON, BONDY   | :::       | //PBN ILS//                      |
+| :::   | RNAV      | -         | :::       | :::       | OKPEX, ESVON, BONDY   | :::       | //RNAV (GNSS)//                  |
+| :::   | VOR Z     | 114.0 GSV | 076º      | :::       | OKSIV, IMROK or DUSRO | :::       | //12 DME GSV Circling Approach// |
+| :::   | VOR Y     | :::       | :::       | :::       | GSV                   | :::       | //VOR Back-Course//              |
+| 26    | RNAV      | -         | 258º      | :::       | UTIMO, IBRAB, KOFTA   | :::       | //RNAV (GNSS)//                  |
+| :::   | VOR Z     | 114.0 GSV | 259       | :::       | EGSOD, IBLOM, ESROP   | :::       | //12 DME GSV Circling Approach// |
+| :::   | VOR Y     | :::       | :::       | :::       | GSV                   | :::       | //VOR Back-Course//              |  
+
+
+==== Holds ====
+
+^ Name  ^ STAR  ^ Altitude  ^ Speed (IAS)   ^ Inbound CRS   ^ Turn  ^ Leg Time  ^ Remarks ^
+| GSV   | -     | 6000 ft   | 230 kts       | 259º          | Right | 1:00      | - |
+| :::   | -     | :::       | :::           | 274º          | :::   | :::       | - |
+| :::   | -     | :::       | :::           | 276º          | :::   | :::       | - |
+
+
+==== Missed Approach Procedures ====
+
+^ Rwy   ^ Approach  ^ Missed Approach Procedure                                                 ^ Hold  ^ Remarks ^
+| 06    | ILS Z     | Climb onto R-076 GSV to GETIP to holt at 6000 ft, Max Speed of 230 kts | GETIP | - |
+| :::   | ILS Y     | Climb on Heading 078º to 5000 ft, then turn LEFT to GSV VOR to hold at 6000 ft, Max Speed of 230 kts | GSV | - |
+| :::   | ILS X     | Climb on Heading 078º to IBRAB to hold at 6000 ft, Max Speed of 230 kts | IBRAB | - |
+| :::   | RNAV      | :::   | :::   | - |
+| :::   | VOR Z     | Climb onto R-076 GSV to GETIP to holt at 6000 ft, Max Speed of 230 kts | GETIP | - |
+| :::   | VOR Y     | Climb on Heading 076º to 5000 ft, then turn LEFT to GSV VOR to hold at 6000 ft, Max Speed of 230 kts | GSV | - |
+| 26    | RNAV      | Climb to 6000 ft to KOFTA via SK405, SK406 and SK407 and hold | KOFTA | - |
+| :::   | VOR Z     | Climb on Heading 259º to 4400 ft, then turn RIGHT to GSV VOR to hold at 6000 ft, Max Speed of 230 Kts | GSV | - |
+| :::   | VOR Y     | :::   | ::: | - |
+
+
+==== MSA and MRVA ====
+
+^ Radio Aid ^ Min Distance ^ Max Distance ^ Radial From ^ Radial To ^ MSA ^ Remarks ^
+| GSV       | 0 nm  | 25 nm | 089º | 029º | 6000 ft | - |
+| :::       | :::   | :::   | 029º | 089º | 6000 ft | - |
+
+
+==== Diversions ====
+
+^ ICAO ^ Name                                       ^ Distance  ^ Longest Rwy ^ Remarks ^ 
+| FAOR | O.R. Tambo (Johannesburg, South Africa)    | 187 nm    | 4421 m | - |
+| FBPM | P.G. Matante Intl (Francistown, Botswana)  | 226 nm    | 3000 m | - |
+| FBMN | Maun Intl (Maun, Botswana)                 | 312 nm    | 3700 m | - |
+
+
+{{page>fb-footer#FBSK}}

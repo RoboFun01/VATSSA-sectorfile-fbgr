@@ -1,0 +1,16 @@
+===== FBSK Departure =====
+
+  * FBSK doesn't have a dedicated Departure Position, with Gaborone Approach (FBSK APP) assuming the role of Departure.
+
+
+==== Departure Procedures ====
+
+  * After departure, climb the aircraft via the SID to FL145 or FL245 (coordinate with FBGR_CTR).
+  * If aircraft departing via runwayheading, provide further climb to MORA before vectoring.
+  * Be aware of High Terrain (MSA of 9500 ft) E of the field.
+
+
+==== Noise Abatement Procedures ====
+
+
+{{page>fb-footer#FBSK}}

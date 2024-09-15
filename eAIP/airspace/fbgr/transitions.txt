@@ -1,0 +1,9 @@
+===== FBGR Gaborone Transition Table =====
+
+{{page>ssa-transition-table#Dynamic Transition}}
+
+
+{{page>ssa-transition-table#FBGR}}
+
+
+{{page>fb-footer#FBGR}}

@@ -1,0 +1,7 @@
+==== Botswana Airspace ====
+
+^ ICAO  ^ Name              ^ SSA Code  ^ Type    ^ Remarks ^
+| FBGR | Gaborone | [[airspace:fbgr:home|FBGR]] | -       | - |
+
+
+{{page>fb-footer#Botswana}}

@@ -1,0 +1,8 @@
+==== Botswana Information ====
+
+Botswana, officially the Republic of Botswana, is a landlocked country in Southern Africa. Botswana is topographically flat, with approximately 70 percent of its territory being the Kalahari Desert. It is bordered by [[country:south-africa:home|South Africa]] to the south and southeast, [[country:namibia:home|Namibia]] to the west and north, and [[country:zimbabwe:home|Zimbabwe]] to the northeast. It is connected by the Kazungula Bridge to [[country:zambia:home|Zambia]], across the world’s shortest border between two countries. 
+
+For more information, please visit [[https://en.wikipedia.org/wiki/Botswana|Wikipedia]].
+
+
+{{page>fb-footer#Botswana}}
